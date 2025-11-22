@@ -1,3 +1,23 @@
+# Dashboard de Ventas 2024
+
+Dashboard desarrollado para el Taller de Diseño Funcional (Semestre VIII) que visualiza las ventas del dataset `sales_data_2024.csv` y genera evidencias en formato PNG.
+
+## Vista rápida
+
+<p align="center">
+  <img src="mi_dashboard_ventas.png" alt="Dashboard de ventas 2024" width="750" />
+</p>
+
+<p align="center">
+  <img src="image.png" alt="Evidencia de ejecución en VS Code" width="750" />
+</p>
+
+## Contenido del Proyecto
+
+- `dashboard_simple.py`: script principal con las visualizaciones.
+- `sales_data_2024.csv`: dataset base con 52 registros.
+- `mi_dashboard_ventas.png`: dashboard exportado automáticamente.
+- `image.png`: captura del IDE mostrando la ejecución y generación del dashboard.
 
 ## Requisitos
 
@@ -31,7 +51,7 @@ pip install matplotlib pandas
 
 ## Evidencias
 
-- `mi_dashboard_ventas.png`: resultado final del dashboard.
+- `mi_dashboard_ventas.png`: resultado final del dashboard (mostrado arriba).
 - `image.png`: evidencia de ejecución en VS Code mostrando mensajes de consola y la vista previa del PNG.
 
 ## Personalización
